@@ -12,7 +12,7 @@ title                    : "Jiayue Chen / Welcome to my site!"
 title_separator          : "-"
 name                     : &name "Jiayue Chen"
 description              : &description "Passionate in Sociology and Philosophy.Hiphop and Kpop fans."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://troygarden13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
