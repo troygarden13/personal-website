@@ -24,7 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jiayue Chen"
   pronouns         : # example: "him/his"  
-  bio              : "Will go to LSE for a social policy msc program.I am strongly interested in general social science and philosophy. "
+  bio              : |
+Will go to LSE for a social policy msc program.
+I am strongly interested in general social science and philosophy. 
   location         : "Beijing/Fujian"
   employer         : "Renmin University of China"
   uri              : # troygarden13.github.io
