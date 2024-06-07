@@ -30,16 +30,17 @@ author:
   location         : "Beijing/Fujian"
   employer         : "Renmin University of China"
   uri              : # troygarden13.github.io
-  email            : "Chenkamore@gmail.com" 
+  email            : "chenkamore@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  douban           : "https://www.douban.com/people/169818135/?_i=7756275UMukvjQ" 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
