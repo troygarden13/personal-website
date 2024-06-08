@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hiohop, K-pop and Humaniteis. I am learning political theory and Philosophy. Feel free to contact me!
-I am particular interested in Marxism and left-wing political philosophy. In addtional, I have a long-term academic project of the history of social movements in China since late 20th century.
-Refer to K-POP, Twice is my favorite.
-Kanye West is the GOAT.
+Hiohop, K-pop and Humaniteis. I am learning political theory and Philosophy. Feel free to contact me!I am particular interested in Marxism and left-wing political philosophy. In addtional, I have a long-term academic project of the history of social movements in China since late 20th century.Refer to K-POP, Twice is my favorite.Kanye West is the GOAT.
 
 
 A data-driven personal website
