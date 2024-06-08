@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /https://troygarden13.github.io
 title: "Welcome to Chen's website! "
 author_profile: true
 redirect_from: 
